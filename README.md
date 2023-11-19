@@ -1,1 +1,1 @@
-https://cherblos.github.io/rsschool-cv
+# rsschool-cv
